@@ -45,7 +45,7 @@ nav {
 .nav-logo {
   letter-spacing: 5px;
   font-size: 1.2em;
-  font-family: 'Koulen', cursive;
+  font-family: 'Koulen', sans-serif;
   font-weight:700;
 }
 .nav-menu-button {
@@ -94,8 +94,9 @@ main .name{
   padding:0px 20px;
   background:#666;
   color:#CBC3E3;
-  font-family: 'Koulen', cursive;
+  font-family: 'Koulen', sans-serif;
   border-radius: 10px;
+  cursor:pointer;
 }
 
 
